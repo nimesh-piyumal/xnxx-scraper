@@ -1,6 +1,6 @@
 {
   "name": "xnxx-scraper",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +11,7 @@
     "scraper",
     "web-scraping"
   ],
+  "description": "Xnxx Search and information scraper",
   "license": "MIT",
   "dependencies": {
     "nexara": "^1.0.0"

@@ -1,0 +1,22 @@
+{
+  "name": "xnxx-scraper",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nimesh Piyumal",
+  "keywords": [
+    "xnxx",
+    "scraper",
+    "web-scraping"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "nexara": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nimesh-piyumal/xnxx-scraper"
+  }
+}
